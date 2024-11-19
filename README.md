@@ -19,7 +19,7 @@ The project files are organized into the following folders:
 * 01 Project Management: includes the Project Brief.
 * 02 Data: divided into two subfolders:
   * Original Data: unscaled weather data + pleasant weather prediction data
-  * Prepared Data: scaled weather data ------ MAY BE OMITTED FROM THE REPOSITORY FOR SPACE-SAVING PURPOSES ------
+  * Prepared Data: scaled weather data 
 * 03 Scripts: contains Jupyter notebooks with the corresponding code.
 * 04 Analysis/Visualizations: holds relevant visuals.
 * 05 Sent to Client: contains a [pdf presentation](https://github.com/Manishatomar/Dataset/blob/main/Manisha%20Achievement%201-Task%201.6.pdf) to ClimateWins stakeholders.
