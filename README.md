@@ -1,1 +1,2 @@
-# ClimateWins-Machine-Learning
+# Weather Conditions & Climate Change with ClimateWins
+# Implementing optimization techniques, including gradient descent, and employing supervised machine learning algorithms such as K-Nearest Neighbor (KNN), Decision Tree, and Artificial Neural Networks (ANN) to determine the most effective method for predicting daily weather conditions conducive to outdoor activities and everyday comfort, commonly referred to as "pleasant" weather.
